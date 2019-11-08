@@ -3,30 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://example.org/</loc>
+    <loc>https://blog.richardandeleanor.co.uk/</loc>
     <lastmod>2019-11-08T13:21:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/posts/my-initial-post/</loc>
+    <loc>https://blog.richardandeleanor.co.uk/posts/my-initial-post/</loc>
     <lastmod>2019-11-08T13:21:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/posts/</loc>
+    <loc>https://blog.richardandeleanor.co.uk/posts/</loc>
     <lastmod>2019-11-08T13:21:23+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://example.org/archives/</loc>
+    <loc>https://blog.richardandeleanor.co.uk/archives/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/categories/</loc>
+    <loc>https://blog.richardandeleanor.co.uk/categories/</loc>
   </url>
   
   <url>
-    <loc>https://example.org/tags/</loc>
+    <loc>https://blog.richardandeleanor.co.uk/tags/</loc>
   </url>
   
 </urlset>
